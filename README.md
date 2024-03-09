@@ -4,6 +4,10 @@
 
 Today, we're diving into the installation and setup of Windows IIS Webserver on our Domain Controller (DC). This guide aims to simplify the process, ensuring a seamless integration of IIS for hosting websites within our network environment.
 
+![internal page](https://github.com/rasheedjimoh/iiswebserver/assets/157264080/de432637-3c12-4751-bb2d-fc4586627cfd)
+
+
+
 ## Getting Started:
 
 Let's begin by exploring the steps involved in installing and configuring Windows IIS Webserver on our Domain Controller.
@@ -23,6 +27,11 @@ Let's begin by exploring the steps involved in installing and configuring Window
 6. **Add Features**: Click "Add Features" to include additional required features.
 
 7. **Confirmation**: Review the selected features and click "Install" to begin the installation process.
+
+![iis-startpage](https://github.com/rasheedjimoh/iiswebserver/assets/157264080/9bb62fa1-8c27-431f-9f0d-77c8bab32baa)
+
+
+
 
 ## Configuration Steps:
 
